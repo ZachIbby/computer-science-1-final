@@ -1,0 +1,14 @@
+Here is what I was able to get done for the final project:
+1. Evens
+2. Odds
+3. Minimum
+4. Maximum
+5. Odd Count
+6. Average
+7. Leetspeak (Attempted, but could not get to work.)
+9. Add Array
+12.Fib
+14.SecToTime
+15.whatMonth
+
+The menu for my program has them numbered in the order I did them.
